@@ -12,4 +12,5 @@ other resources :
 https://wiki.reactivemicro.com/No-Slot_Clock  
 https://gist.github.com/mgcaret/ae2860c754fd029d2640107c4fe0bffd  
 https://www.xpmtl.net/wordpress/apple-ii/no-slot-clock/  
+https://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/Chips/SMT%20No-Slot%20Clock/Manuals/No-Slot%20Clock%20-%20Manual.pdf
 
