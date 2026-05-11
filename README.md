@@ -1,10 +1,10 @@
 # no.slot.clock-neo
 
-Tested in an Apple IIe (europ motherboard)  
+Tested in an Apple IIe (europ motherboard) and works fine.  
 
 Use the DS1215 DIP chip and readily available through-hole components  at a reasonable price (except for the DS1215 :-( ).  
 
-This PCB is is functionally equivalent to the DS1216 E/F (cf. https://github.com/patdie421/no.slot.clock-neo/blob/main/resources/DS1216.PDF)  
+This PCB is is functionally equivalent to the DS1216 E/F (cf. https://github.com/patdie421/no.slot.clock-neo/blob/main/resources/DS1216.PDF).  
 
 Modern driver available in this repository : https://github.com/a2stuff/prodos-drivers  
 
