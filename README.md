@@ -1,6 +1,6 @@
 # no.slot.clock-neo
 
-tested in an Apple IIe (euro)  
+tested in an Apple IIe (europ motherboard)  
 
 this pcb is equivalent to the DS1216F (cf. https://github.com/patdie421/no.slot.clock-neo/blob/main/resources/DS1216.PDF)  
 
