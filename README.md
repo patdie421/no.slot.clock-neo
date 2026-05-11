@@ -9,8 +9,10 @@ this pcb is equivalent to the DS1216F (cf. https://github.com/patdie421/no.slot.
 driver available in this repository : https://github.com/a2stuff/prodos-drivers  
 
 other resources :  
-https://wiki.reactivemicro.com/No-Slot_Clock  
-https://gist.github.com/mgcaret/ae2860c754fd029d2640107c4fe0bffd  
-https://www.xpmtl.net/wordpress/apple-ii/no-slot-clock/  
-https://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/Chips/SMT%20No-Slot%20Clock/Manuals/No-Slot%20Clock%20-%20Manual.pdf  
-https://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/Chips/SMT%20No-Slot%20Clock/Disk%20Images/  
+
+Reactive micro "no slot clock" : https://wiki.reactivemicro.com/No-Slot_Clock  
+An other PCB with smd components : https://www.xpmtl.net/wordpress/apple-ii/no-slot-clock/  
+
+Original driver source code : https://gist.github.com/mgcaret/ae2860c754fd029d2640107c4fe0bffd  
+Original user manual : https://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/Chips/SMT%20No-Slot%20Clock/Manuals/No-Slot%20Clock%20-%20Manual.pdf  
+Original software : https://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project/Chips/SMT%20No-Slot%20Clock/Disk%20Images/  
