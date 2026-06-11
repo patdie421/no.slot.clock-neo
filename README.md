@@ -1,6 +1,6 @@
 # no.slot.clock-neo
 
-v2.1 Tested in an Apple IIe (europ motherboard) and works fine. Other version will be tested soon.  
+v2.1 Tested in an Apple IIe (europa motherboard) and works fine. Other version will be tested soon.  
 
 Use the DS1215 DIP chip and readily available through-hole components  at a reasonable price (except for the DS1215 :-( ).  
 
